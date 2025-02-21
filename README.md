@@ -1,6 +1,6 @@
 # ardi_boxing_images
 
-A new Flutter package project.
+A new Flutter Febri package project.
 
 ## Features
 
