@@ -1,6 +1,6 @@
 # ardi_boxing_images
 
-A flutter widget boxing iamges
+A flutter widget boxing images
 
 ## Features
 
